@@ -1,7 +1,10 @@
 /*
  *
  *@author Jacky
- *
+ * 
+ * Topic: Stack
+ * Description: This program implements a stack data structure using an array.
+ * It allows users to push (insert) and pop (delete) string data, as well as list the current contents of the stack.
  * Version 1
  * Update date: June 16,2025
  *
